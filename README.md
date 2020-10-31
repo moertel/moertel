@@ -39,4 +39,4 @@ _**Digital Artist & Creator** &#12299;specialised in environmental pixel art and
   <img align="left" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-Website & Gallery : [https://moer.tel](https://moer.tel)
+Website & Gallery : [https://moer.tel](https://moer.tel) &nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>

@@ -1,4 +1,4 @@
-### Hi, I'm Stefanie! 👾 
+**Hi, I'm Stefanie!** 👾  &nbsp;&nbsp;I automate ALL the things. GitOps & DataOps advocate. I test my code. Occasionally, I draw.
 
 ----
 

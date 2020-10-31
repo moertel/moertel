@@ -1,4 +1,4 @@
-### Hi, I'm Stefanie!&nbsp; &#12299;👾  &nbsp;&nbsp;&#12299;<sup>I automate ALL the things. GitOps & DataOps advocate. I test my code. Occasionally, I draw.</sup>
+### Hi, I'm Stefanie! 👾  &nbsp;&nbsp;<sup>&#12299;I automate ALL the things. GitOps & DataOps advocate. I test my code. Occasionally, I draw.</sup>
 
 ----
 
@@ -39,4 +39,4 @@ _**Digital Artist & Creator** &#12299;specialised in environmental pixel art and
   <img align="left" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-Website & Gallery : [https://moer.tel](https://moer.tel) &nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
+| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://moer.tel](https://moer.tel) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>

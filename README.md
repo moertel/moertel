@@ -15,7 +15,7 @@
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=019733&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=F05032&style=flat-square)
 &nbsp;&nbsp;&nbsp;
-![worksat](https://img.shields.io/static/v1?label=&message=works%20at:&color=555&style=flat-square)
+![worksat](https://img.shields.io/static/v1?label=&message=@:&color=555&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
 _**Senior Data & Platform Engineer** &#12299;working in Reliability Analytics & Automation_
